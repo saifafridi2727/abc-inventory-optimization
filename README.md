@@ -26,6 +26,11 @@ Proposed a 3-tier inventory strategy:
 ## 🔗 Live Project
 [View the live Google Sheet here](https://docs.google.com/spreadsheets/d/1NfMrxZqVr7xhngXmZXVmVjSDYSCnvGkH2hodnbT22nc/edit?usp=sharing)
 
+## 📸 Screenshots
+
+### Dashboard & Pareto Analysis
+![Dashboard & Pareto](Supply_Chain_ABC_Analysis%20-%20Executive%20Summary%20(1).pdf)(Dashboard and pareto analysis.png)
+
 ## 🧠 What I Learned
 - How to apply the Pareto Principle (80/20 rule) to real inventory data.
 - How to build a dynamic classification system using `IF` logic and `SUMIF`.
