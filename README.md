@@ -22,9 +22,6 @@ Proposed a 3-tier inventory strategy:
 ## 📁 Files in this Repository
 - `Dashboard_Screenshot.png` – Live KPI dashboard showing A/B/C classification.
 - `Pareto_Chart.png` – Visual 80/20 curve showing revenue concentration.
-- `ABC_Classification_Table.png` – Detailed breakdown of products by tier.
-- `Recommendation_Report.pdf` – Full report with inventory strategy recommendations.
-- `Sample_Data.csv` – Sample of the raw SKU data (first 100 rows).
 
 ## 🔗 Live Project
 [View the live Google Sheet here](https://docs.google.com/spreadsheets/d/1NfMrxZqVr7xhngXmZXVmVjSDYSCnvGkH2hodnbT22nc/edit?usp=sharing)
